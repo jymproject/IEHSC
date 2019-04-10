@@ -1,0 +1,60 @@
+<!--
+  Generated template for the ProductChangePage page.
+
+  See http://ionicframework.com/docs/components/#navigation for more info on
+  Ionic pages and navigation.
+-->
+<ion-header>
+
+  <ion-navbar>
+    <ion-title>生产计划</ion-title>
+  </ion-navbar>
+
+</ion-header>
+
+
+<ion-content padding>
+  <div>
+    <ion-item>
+      <ion-label> 生产班组：</ion-label>
+      <ion-select okText="确定" cancelText="取消" placeholder="[必选项]请选择生产班组" [(ngModel)]="shifId">
+        <ion-option value="早">早</ion-option>
+        <ion-option value="中">中</ion-option>
+        <ion-option value="晚">晚</ion-option>
+      </ion-select>
+
+    </ion-item>
+
+    <ion-item>
+      <ion-label> 生产机台：</ion-label>
+      <ion-select okText="确定" cancelText="取消" placeholder="[必选项]请选择生产机台" [(ngModel)]="deciveNo">
+
+        <ion-option value="E1101">E1101</ion-option>
+        <ion-option value="E1102">E1102</ion-option>
+        <ion-option value="E1103">E1103</ion-option>
+      </ion-select>
+    </ion-item>
+    <ion-item>
+      <ion-label> 生产批次：</ion-label>
+      <ion-select okText="确定" cancelText="取消" placeholder="[必选项]请选择生产批次" [(ngModel)]="batchNo">
+
+        <ion-option *ngFor="let batchNo of BatchNoList">{{batchNo}}</ion-option>
+      </ion-select>
+    </ion-item>
+    <ion-item>
+      <ion-label> 产品规格：{{MaterNo}}</ion-label>
+    </ion-item>
+    <ion-item>
+      <ion-label> 计划数量：{{ProductQty}}</ion-label>
+    </ion-item>
+
+  </div>
+</ion-content>
+<ion-footer>
+  <ion-toolbar style="width:100%">
+    <div>
+      <button ion-button mode="ios" color="reds" outline="false" ion-icon name="home" style="width:48%;text-align:center" (click)="query()">查询</button>
+      <button ion-button icon-start style="width:48%;text-align:center" (click)="exchange()"> 切换</button>
+    </div>
+  </ion-toolbar>
+</ion-footer>

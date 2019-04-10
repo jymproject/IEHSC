@@ -1,0 +1,320 @@
+D:\VSWorkSpace\AppService\AppService\bin\AppService.dll.config
+D:\VSWorkSpace\AppService\AppService\bin\AppService.dll
+D:\VSWorkSpace\AppService\AppService\bin\AppService.pdb
+D:\VSWorkSpace\AppService\AppService\bin\Dapper.dll
+D:\VSWorkSpace\AppService\AppService\bin\DapperExtensions.dll
+D:\VSWorkSpace\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\VSWorkSpace\AppService\AppService\bin\MSTL.DbClient.dll
+D:\VSWorkSpace\AppService\AppService\bin\Newtonsoft.Json.dll
+D:\VSWorkSpace\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+D:\VSWorkSpace\AppService\AppService\bin\System.Net.Http.Formatting.dll
+D:\VSWorkSpace\AppService\AppService\bin\System.Web.Http.dll
+D:\VSWorkSpace\AppService\AppService\bin\System.Web.Http.WebHost.dll
+D:\VSWorkSpace\AppService\AppService\bin\DapperExtensions.pdb
+D:\VSWorkSpace\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\VSWorkSpace\AppService\AppService\bin\Newtonsoft.Json.xml
+D:\VSWorkSpace\AppService\AppService\bin\System.Net.Http.Formatting.xml
+D:\VSWorkSpace\AppService\AppService\bin\System.Web.Http.xml
+D:\VSWorkSpace\AppService\AppService\bin\System.Web.Http.WebHost.xml
+D:\VSWorkSpace\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\VSWorkSpace\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+D:\VSWorkSpace\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\VSWorkSpace\AppService\AppService\obj\Debug\AppService.csprojResolveAssemblyReference.cache
+D:\VSWorkSpace\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+D:\VSWorkSpace\AppService\AppService\obj\Debug\AppService.dll
+D:\VSWorkSpace\AppService\AppService\obj\Debug\AppService.pdb
+D:\GitSpace\Android\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+D:\GitSpace\Android\AppService\AppService\bin\AppService.dll.config
+D:\GitSpace\Android\AppService\AppService\bin\AppService.dll
+D:\GitSpace\Android\AppService\AppService\bin\AppService.pdb
+D:\GitSpace\Android\AppService\AppService\bin\Dapper.dll
+D:\GitSpace\Android\AppService\AppService\bin\DapperExtensions.dll
+D:\GitSpace\Android\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GitSpace\Android\AppService\AppService\bin\MSTL.DbClient.dll
+D:\GitSpace\Android\AppService\AppService\bin\Newtonsoft.Json.dll
+D:\GitSpace\Android\AppService\AppService\bin\System.Net.Http.Formatting.dll
+D:\GitSpace\Android\AppService\AppService\bin\System.Web.Http.dll
+D:\GitSpace\Android\AppService\AppService\bin\System.Web.Http.WebHost.dll
+D:\GitSpace\Android\AppService\AppService\bin\DapperExtensions.pdb
+D:\GitSpace\Android\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GitSpace\Android\AppService\AppService\bin\Newtonsoft.Json.xml
+D:\GitSpace\Android\AppService\AppService\bin\System.Net.Http.Formatting.xml
+D:\GitSpace\Android\AppService\AppService\bin\System.Web.Http.xml
+D:\GitSpace\Android\AppService\AppService\bin\System.Web.Http.WebHost.xml
+D:\GitSpace\Android\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\GitSpace\Android\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+D:\GitSpace\Android\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\GitSpace\Android\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+D:\GitSpace\Android\AppService\AppService\obj\Debug\AppService.dll
+D:\GitSpace\Android\AppService\AppService\obj\Debug\AppService.pdb
+D:\GitSpace\Android\AppService\AppService\obj\Debug\AppService.csprojResolveAssemblyReference.cache
+D:\ionic\Android\AppService\AppService\bin\AppService.dll.config
+D:\ionic\Android\AppService\AppService\bin\AppService.dll
+D:\ionic\Android\AppService\AppService\bin\AppService.pdb
+D:\ionic\Android\AppService\AppService\bin\Dapper.dll
+D:\ionic\Android\AppService\AppService\bin\DapperExtensions.dll
+D:\ionic\Android\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ionic\Android\AppService\AppService\bin\MSTL.DbClient.dll
+D:\ionic\Android\AppService\AppService\bin\Newtonsoft.Json.dll
+D:\ionic\Android\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+D:\ionic\Android\AppService\AppService\bin\System.Net.Http.Formatting.dll
+D:\ionic\Android\AppService\AppService\bin\System.Web.Http.dll
+D:\ionic\Android\AppService\AppService\bin\System.Web.Http.WebHost.dll
+D:\ionic\Android\AppService\AppService\bin\DapperExtensions.pdb
+D:\ionic\Android\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ionic\Android\AppService\AppService\bin\Newtonsoft.Json.xml
+D:\ionic\Android\AppService\AppService\bin\System.Net.Http.Formatting.xml
+D:\ionic\Android\AppService\AppService\bin\System.Web.Http.xml
+D:\ionic\Android\AppService\AppService\bin\System.Web.Http.WebHost.xml
+D:\ionic\Android\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\ionic\Android\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+D:\ionic\Android\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\ionic\Android\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+D:\ionic\Android\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+D:\ionic\Android\AppService\AppService\obj\Debug\AppService.dll
+D:\ionic\Android\AppService\AppService\obj\Debug\AppService.pdb
+D:\ionic\Android\AppService\AppService\obj\Debug\AppService.csprojResolveAssemblyReference.cache
+D:\ionic\huabao\AppService\AppService\bin\AppService.dll.config
+D:\ionic\huabao\AppService\AppService\bin\AppService.dll
+D:\ionic\huabao\AppService\AppService\bin\AppService.pdb
+D:\ionic\huabao\AppService\AppService\bin\Dapper.dll
+D:\ionic\huabao\AppService\AppService\bin\DapperExtensions.dll
+D:\ionic\huabao\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ionic\huabao\AppService\AppService\bin\MSTL.DbClient.dll
+D:\ionic\huabao\AppService\AppService\bin\Newtonsoft.Json.dll
+D:\ionic\huabao\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+D:\ionic\huabao\AppService\AppService\bin\System.Net.Http.Formatting.dll
+D:\ionic\huabao\AppService\AppService\bin\System.Web.Http.dll
+D:\ionic\huabao\AppService\AppService\bin\System.Web.Http.WebHost.dll
+D:\ionic\huabao\AppService\AppService\bin\DapperExtensions.pdb
+D:\ionic\huabao\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ionic\huabao\AppService\AppService\bin\Newtonsoft.Json.xml
+D:\ionic\huabao\AppService\AppService\bin\System.Net.Http.Formatting.xml
+D:\ionic\huabao\AppService\AppService\bin\System.Web.Http.xml
+D:\ionic\huabao\AppService\AppService\bin\System.Web.Http.WebHost.xml
+D:\ionic\huabao\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\ionic\huabao\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+D:\ionic\huabao\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\ionic\huabao\AppService\AppService\obj\Debug\AppService.csprojResolveAssemblyReference.cache
+D:\ionic\huabao\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+D:\ionic\huabao\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+D:\ionic\huabao\AppService\AppService\obj\Debug\AppService.dll
+D:\ionic\huabao\AppService\AppService\obj\Debug\AppService.pdb
+C:\IEHSC\AppService\AppService\bin\AppService.dll.config
+C:\IEHSC\AppService\AppService\bin\AppService.dll
+C:\IEHSC\AppService\AppService\bin\AppService.pdb
+C:\IEHSC\AppService\AppService\bin\Antlr3.Runtime.dll
+C:\IEHSC\AppService\AppService\bin\Dapper.dll
+C:\IEHSC\AppService\AppService\bin\DapperExtensions.dll
+C:\IEHSC\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\IEHSC\AppService\AppService\bin\Microsoft.Web.Infrastructure.dll
+C:\IEHSC\AppService\AppService\bin\MSTL.DbClient.dll
+C:\IEHSC\AppService\AppService\bin\Newtonsoft.Json.dll
+C:\IEHSC\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+C:\IEHSC\AppService\AppService\bin\System.Net.Http.Formatting.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Helpers.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Http.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Http.WebHost.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Mvc.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Optimization.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.Razor.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Deployment.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.dll
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Razor.dll
+C:\IEHSC\AppService\AppService\bin\WebGrease.dll
+C:\IEHSC\AppService\AppService\bin\Antlr3.Runtime.pdb
+C:\IEHSC\AppService\AppService\bin\DapperExtensions.pdb
+C:\IEHSC\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\IEHSC\AppService\AppService\bin\Newtonsoft.Json.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Helpers.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Mvc.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Optimization.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Razor.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Deployment.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Razor.xml
+C:\IEHSC\AppService\AppService\bin\System.Net.Http.Formatting.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Http.xml
+C:\IEHSC\AppService\AppService\bin\System.Web.Http.WebHost.xml
+C:\IEHSC\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+C:\IEHSC\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+C:\IEHSC\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+C:\IEHSC\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+C:\IEHSC\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+C:\IEHSC\AppService\AppService\obj\Debug\AppService.dll
+C:\IEHSC\AppService\AppService\obj\Debug\AppService.pdb
+C:\IEHSC\AppService\AppService\obj\Debug\AppService.csprojAssemblyReference.cache
+E:\IEHSC\HuaBao\AppService\AppService\bin\AppService.dll.config
+E:\IEHSC\HuaBao\AppService\AppService\bin\AppService.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\AppService.pdb
+E:\IEHSC\HuaBao\AppService\AppService\bin\Antlr3.Runtime.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Dapper.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\DapperExtensions.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Microsoft.Web.Infrastructure.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\MSTL.DbClient.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Newtonsoft.Json.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Net.Http.Formatting.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Helpers.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Http.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Http.WebHost.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Mvc.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Optimization.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Razor.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.Deployment.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.Razor.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\WebGrease.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\Antlr3.Runtime.pdb
+E:\IEHSC\HuaBao\AppService\AppService\bin\DapperExtensions.pdb
+E:\IEHSC\HuaBao\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\Newtonsoft.Json.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Helpers.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Mvc.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Optimization.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Razor.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.Deployment.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.WebPages.Razor.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Net.Http.Formatting.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Http.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\System.Web.Http.WebHost.xml
+E:\IEHSC\HuaBao\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+E:\IEHSC\HuaBao\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\IEHSC\HuaBao\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+E:\IEHSC\HuaBao\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+E:\IEHSC\HuaBao\AppService\AppService\obj\Debug\AppService.dll
+E:\IEHSC\HuaBao\AppService\AppService\obj\Debug\AppService.pdb
+D:\IEHSC\AppService\AppService\bin\AppService.dll.config
+D:\IEHSC\AppService\AppService\bin\AppService.dll
+D:\IEHSC\AppService\AppService\bin\AppService.pdb
+D:\IEHSC\AppService\AppService\bin\Antlr3.Runtime.dll
+D:\IEHSC\AppService\AppService\bin\Dapper.dll
+D:\IEHSC\AppService\AppService\bin\DapperExtensions.dll
+D:\IEHSC\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IEHSC\AppService\AppService\bin\Microsoft.Web.Infrastructure.dll
+D:\IEHSC\AppService\AppService\bin\MSTL.DbClient.dll
+D:\IEHSC\AppService\AppService\bin\Newtonsoft.Json.dll
+D:\IEHSC\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+D:\IEHSC\AppService\AppService\bin\System.Net.Http.Formatting.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Helpers.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Http.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Http.WebHost.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Mvc.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Optimization.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.Razor.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Deployment.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.dll
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Razor.dll
+D:\IEHSC\AppService\AppService\bin\WebGrease.dll
+D:\IEHSC\AppService\AppService\bin\Antlr3.Runtime.pdb
+D:\IEHSC\AppService\AppService\bin\DapperExtensions.pdb
+D:\IEHSC\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IEHSC\AppService\AppService\bin\Newtonsoft.Json.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Helpers.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Mvc.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Optimization.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Razor.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Deployment.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.WebPages.Razor.xml
+D:\IEHSC\AppService\AppService\bin\System.Net.Http.Formatting.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Http.xml
+D:\IEHSC\AppService\AppService\bin\System.Web.Http.WebHost.xml
+D:\IEHSC\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+D:\IEHSC\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+D:\IEHSC\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+D:\IEHSC\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+D:\IEHSC\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+D:\IEHSC\AppService\AppService\obj\Debug\AppService.dll
+D:\IEHSC\AppService\AppService\obj\Debug\AppService.pdb
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\AppService.dll.config
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\AppService.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\AppService.pdb
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Antlr3.Runtime.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Dapper.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\DapperExtensions.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Microsoft.Web.Infrastructure.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\MSTL.DbClient.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Newtonsoft.Json.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Net.Http.Formatting.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Helpers.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Http.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Http.WebHost.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Mvc.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Optimization.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Razor.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.Deployment.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.Razor.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\WebGrease.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Antlr3.Runtime.pdb
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\DapperExtensions.pdb
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\Newtonsoft.Json.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Helpers.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Mvc.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Optimization.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Razor.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.Deployment.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.WebPages.Razor.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Net.Http.Formatting.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Http.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\System.Web.Http.WebHost.xml
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\obj\Debug\AppService.dll
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\obj\Debug\AppService.pdb
+E:\00 MESNAC\IEHSC\Clean\AppService\AppService\obj\Debug\AppService.csprojAssemblyReference.cache
+E:\JYM\AppService\AppService\AppService\bin\AppService.dll.config
+E:\JYM\AppService\AppService\AppService\bin\AppService.dll
+E:\JYM\AppService\AppService\AppService\bin\AppService.pdb
+E:\JYM\AppService\AppService\AppService\bin\Antlr3.Runtime.dll
+E:\JYM\AppService\AppService\AppService\bin\Dapper.dll
+E:\JYM\AppService\AppService\AppService\bin\DapperExtensions.dll
+E:\JYM\AppService\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\JYM\AppService\AppService\AppService\bin\Microsoft.Web.Infrastructure.dll
+E:\JYM\AppService\AppService\AppService\bin\MSTL.DbClient.dll
+E:\JYM\AppService\AppService\AppService\bin\Newtonsoft.Json.dll
+E:\JYM\AppService\AppService\AppService\bin\Oracle.ManagedDataAccess.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Net.Http.Formatting.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Helpers.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Http.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Http.WebHost.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Mvc.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Optimization.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Razor.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.Deployment.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.dll
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.Razor.dll
+E:\JYM\AppService\AppService\AppService\bin\WebGrease.dll
+E:\JYM\AppService\AppService\AppService\bin\Antlr3.Runtime.pdb
+E:\JYM\AppService\AppService\AppService\bin\DapperExtensions.pdb
+E:\JYM\AppService\AppService\AppService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\JYM\AppService\AppService\AppService\bin\Newtonsoft.Json.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Helpers.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Mvc.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Optimization.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Razor.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.Deployment.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.WebPages.Razor.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Net.Http.Formatting.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Http.xml
+E:\JYM\AppService\AppService\AppService\bin\System.Web.Http.WebHost.xml
+E:\JYM\AppService\AppService\AppService\bin\zh-Hans\System.Net.Http.Formatting.resources.dll
+E:\JYM\AppService\AppService\AppService\bin\zh-Hans\System.Web.Http.resources.dll
+E:\JYM\AppService\AppService\AppService\bin\zh-Hans\System.Web.Http.WebHost.resources.dll
+E:\JYM\AppService\AppService\AppService\obj\Debug\AppService.csproj.CoreCompileInputs.cache
+E:\JYM\AppService\AppService\AppService\obj\Debug\AppService.csproj.CopyComplete
+E:\JYM\AppService\AppService\AppService\obj\Debug\AppService.dll
+E:\JYM\AppService\AppService\AppService\obj\Debug\AppService.pdb
+E:\JYM\AppService\AppService\AppService\obj\Debug\AppService.csprojAssemblyReference.cache
